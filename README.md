@@ -10,7 +10,7 @@
 
 ## <strong>🎗️ GitHub Achievements</strong>
 <p>
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark" />
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="40" title="Pull Shark" />
 </p>
  
 # <strong>Let's connect!</strong>
