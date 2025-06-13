@@ -14,6 +14,5 @@
 </p>
  
 # <strong>Let's connect!</strong>
-<a href="https://www.instagram.com/rdtyazall/">
-  <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+<a href="https://instagram.com/rdtyazall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afif.rohul" height="30" width="40" />
 </a>
