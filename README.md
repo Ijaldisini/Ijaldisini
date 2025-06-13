@@ -4,8 +4,8 @@
 
 # <strong> 🔓 Tools:</strong>
 <p>
-    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-    ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+    <img src="https://img.shields.io/badge/Python-blue?&logo=python&logoColor=yellow" />
+    <img src="https://img.shields.io/badge/C%23-239120?&logo=c-sharp&logoColor=white" />
 </p>
  
 # <strong>Let's connect!</strong>
