@@ -4,8 +4,8 @@
 
 ### <summary><strong>Tools:</strong></summary>
 <p>
-    ![Python](https://img.shields.io/badge/Language-Python-blue?&logo=python&logoColor=yellow)
-    ![CSharp](https://img.shields.io/badge/Language-C%23-239120?&logo=c-sharp&logoColor=white)
+    <img src="https://img.shields.io/badge/Language-Python-blue?&logo=python&logoColor=yellow" />
+    <img src="https://img.shields.io/badge/Language-C%23-239120?&logo=c-sharp&logoColor=white" />
 </p>
  
 ### <summary><strong>Let's connect!</strong></summary>
