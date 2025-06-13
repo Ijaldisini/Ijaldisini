@@ -10,11 +10,11 @@
 
 ## <strong>🎗️ GitHub Achievements</strong>
 <p>
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="40" title="Pull Shark" />
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60" title="Pull Shark" />
 </p>
  
 # <strong>Let's connect!</strong>
 <a href="https://instagram.com/rdtyazall" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-            height="30" width="40" />
+            height="40" width="50" />
 </a>
