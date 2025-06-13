@@ -1,4 +1,4 @@
-# <summary><strong>Hi there :wave: , I'm Ijall!</strong></summary>
+# <strong>Hi there 🪐, I'm Ijall!</strong>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ijaldisini&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
