@@ -5,10 +5,10 @@
 # <strong> 🔓 Tools:</strong>
 <p>
     <img src="https://img.shields.io/badge/PYTHON-blue?&logo=python&logoColor=ffdd54" />
-    <img src="https://img.shields.io/badge/C%23-239120?&logo=c-sharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS-231572B6?&logo=css&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML-23E34F26?&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/javascript-23323330?&logo=javascript&logoColor=23f7df1e"
+    <img src="https://img.shields.io/badge/C%23-%23239120?&logo=c-sharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS-%231572B6?&logo=css&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML-%23E34F26?&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-%23323330?&logo=javascript&logoColor=23f7df1e" />
 </p>
 
 ## <strong>🎗️ GitHub Achievements</strong>
