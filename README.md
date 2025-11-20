@@ -13,13 +13,7 @@
 </p>
 
 # <strong> 🔓 Tools:</strong>
-<p>
-    <img src="https://img.shields.io/badge/PYTHON-3572A5?&logo=python&logoColor=ffdd54" />
-    <img src="https://img.shields.io/badge/C%23-23239120?&logo=c-sharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS-563D7C?&logo=css&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML-E34C26?&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-222021?&logo=javascript&logoColor=F1E05A" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=py,php,cs,js,html,css,bootstrap,tailwind,laravel)](https://skillicons.dev)
 
 <div>
 <!--   <img height="170" align="left" 
