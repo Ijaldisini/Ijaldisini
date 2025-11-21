@@ -13,7 +13,7 @@
 </p>
 
 # <strong> 🔓 Tools:</strong>
-[![My Skills](https://skillicons.dev/icons?i=py,php,cs,js,html,css,bootstrap,tailwind,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,php,cs,js,html,css,go,bootstrap,tailwind,laravel)](https://skillicons.dev)
 
 <div>
 <!--   <img height="170" align="left" 
